@@ -13,7 +13,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * Created by AliGungorGYT on 22/08/15.
+ * Created by AliGungor on 22/08/15.
  *
  * Don't forget to add
  * <uses-permission android:name="android.permission.WAKE_LOCK"/>
